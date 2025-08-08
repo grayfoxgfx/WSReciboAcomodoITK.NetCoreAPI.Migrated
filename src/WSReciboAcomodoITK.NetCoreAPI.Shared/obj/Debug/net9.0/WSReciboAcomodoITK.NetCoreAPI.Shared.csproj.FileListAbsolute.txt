@@ -1,0 +1,11 @@
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.deps.json
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.AssemblyInfoInputs.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.AssemblyInfo.cs
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.csproj.CoreCompileInputs.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\refint\WSReciboAcomodoITK.NetCoreAPI.Shared.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Shared.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Shared\obj\Debug\net9.0\ref\WSReciboAcomodoITK.NetCoreAPI.Shared.dll

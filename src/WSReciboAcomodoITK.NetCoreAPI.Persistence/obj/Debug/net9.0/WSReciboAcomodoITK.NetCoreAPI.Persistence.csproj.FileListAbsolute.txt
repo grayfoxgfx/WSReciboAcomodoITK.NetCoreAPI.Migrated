@@ -1,0 +1,15 @@
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.deps.json
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.AssemblyInfoInputs.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.AssemblyInfo.cs
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\refint\WSReciboAcomodoITK.NetCoreAPI.Persistence.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\ref\WSReciboAcomodoITK.NetCoreAPI.Persistence.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Domain.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Domain.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Persistence.csproj.AssemblyReference.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Persistence\obj\Debug\net9.0\WSRecibo.80BE61A0.Up2Date

@@ -1,0 +1,7 @@
+{
+  "WSReciboAcomodoITK.NetCoreAPI.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\WCFPOC\\WSReciboAcomodoITK.NetCoreAPI\\src\\WSReciboAcomodoITK.NetCoreAPI.API",
+  "WSReciboAcomodoITK.NetCoreAPI.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\WCFPOC\\WSReciboAcomodoITK.NetCoreAPI\\src\\WSReciboAcomodoITK.NetCoreAPI.Application",
+  "WSReciboAcomodoITK.NetCoreAPI.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\WCFPOC\\WSReciboAcomodoITK.NetCoreAPI\\src\\WSReciboAcomodoITK.NetCoreAPI.Domain",
+  "WSReciboAcomodoITK.NetCoreAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\WCFPOC\\WSReciboAcomodoITK.NetCoreAPI\\src\\WSReciboAcomodoITK.NetCoreAPI.Infrastructure",
+  "WSReciboAcomodoITK.NetCoreAPI.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\WCFPOC\\WSReciboAcomodoITK.NetCoreAPI\\src\\WSReciboAcomodoITK.NetCoreAPI.Persistence"
+}

@@ -1,0 +1,15 @@
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.deps.json
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.AssemblyInfo.cs
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\refint\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\ref\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Domain.dll
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\bin\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Domain.pdb
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSReciboAcomodoITK.NetCoreAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\WCFPOC\WSReciboAcomodoITK.NetCoreAPI\src\WSReciboAcomodoITK.NetCoreAPI.Infrastructure\obj\Debug\net9.0\WSRecibo.7E4B13A3.Up2Date

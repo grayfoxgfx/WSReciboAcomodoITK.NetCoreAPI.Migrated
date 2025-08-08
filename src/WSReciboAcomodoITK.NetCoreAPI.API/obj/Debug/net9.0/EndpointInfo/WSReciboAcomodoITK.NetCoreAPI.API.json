@@ -1,0 +1,278 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "WSReciboAcomodoITK API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/ReciboAcomodo/SAP_ITK_REF_ObtieneDatosHu": {
+      "post": {
+        "tags": [
+          "ReciboAcomodo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/HuEnvio"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/HuEnvio"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/HuEnvio"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/HuRespuestaDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HuRespuestaDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HuRespuestaDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ReciboAcomodo/SAP_ITK_REF_GeneraOtEnMalEstado": {
+      "post": {
+        "tags": [
+          "ReciboAcomodo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OtMalEstadoEnvio"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OtMalEstadoEnvio"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OtMalEstadoEnvio"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/OtMalEstadoRespuestaDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OtMalEstadoRespuestaDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OtMalEstadoRespuestaDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "HuEnvio": {
+        "type": "object",
+        "properties": {
+          "hu": {
+            "type": "string",
+            "nullable": true
+          },
+          "material": {
+            "type": "string",
+            "nullable": true
+          },
+          "oc": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "HuError": {
+        "type": "object",
+        "properties": {
+          "error": {
+            "type": "string",
+            "nullable": true
+          },
+          "isError": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "HuRespuesta": {
+        "type": "object",
+        "properties": {
+          "hu": {
+            "type": "string",
+            "nullable": true
+          },
+          "material": {
+            "type": "string",
+            "nullable": true
+          },
+          "cantidad": {
+            "type": "string",
+            "nullable": true
+          },
+          "calidad": {
+            "type": "string",
+            "nullable": true
+          },
+          "pasillo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "HuRespuestaDto": {
+        "type": "object",
+        "properties": {
+          "success": {
+            "type": "boolean"
+          },
+          "huRespuestas": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/HuRespuesta"
+            },
+            "nullable": true
+          },
+          "huError": {
+            "$ref": "#/components/schemas/HuError"
+          }
+        },
+        "additionalProperties": false
+      },
+      "OtMalEstadoEnvio": {
+        "type": "object",
+        "properties": {
+          "hu": {
+            "type": "string",
+            "nullable": true
+          },
+          "cantidad": {
+            "type": "string",
+            "nullable": true
+          },
+          "malEdo": {
+            "type": "string",
+            "nullable": true
+          },
+          "motivoRech": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "OtMalEstadoError": {
+        "type": "object",
+        "properties": {
+          "hu": {
+            "type": "string",
+            "nullable": true
+          },
+          "error": {
+            "type": "string",
+            "nullable": true
+          },
+          "descripError": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "OtMalEstadoRespuestaDto": {
+        "type": "object",
+        "properties": {
+          "success": {
+            "type": "boolean"
+          },
+          "otMalEstadoResults": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/OtMalEstadoResult"
+            },
+            "nullable": true
+          },
+          "otMalEstadoError": {
+            "$ref": "#/components/schemas/OtMalEstadoError"
+          }
+        },
+        "additionalProperties": false
+      },
+      "OtMalEstadoResult": {
+        "type": "object",
+        "properties": {
+          "hu": {
+            "type": "string",
+            "nullable": true
+          },
+          "ot": {
+            "type": "string",
+            "nullable": true
+          },
+          "confirmOt": {
+            "type": "string",
+            "nullable": true
+          },
+          "movMcia": {
+            "type": "string",
+            "nullable": true
+          },
+          "docMat": {
+            "type": "string",
+            "nullable": true
+          },
+          "confirmMov": {
+            "type": "string",
+            "nullable": true
+          },
+          "cambiarHu": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

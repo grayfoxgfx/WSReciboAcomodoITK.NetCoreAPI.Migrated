@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "WSReciboAcomodoITK.NetCoreAPI.API.Controllers.ReciboAcomodoController",
+    "Method": "SAP_ITK_REF_GeneraOtEnMalEstado",
+    "RelativePath": "api/ReciboAcomodo/SAP_ITK_REF_GeneraOtEnMalEstado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WSReciboAcomodoITK.NetCoreAPI.Domain.OtMalEstadoEnvio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSReciboAcomodoITK.NetCoreAPI.Domain.OtMalEstadoRespuestaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSReciboAcomodoITK.NetCoreAPI.API.Controllers.ReciboAcomodoController",
+    "Method": "SAP_ITK_REF_ObtieneDatosHu",
+    "RelativePath": "api/ReciboAcomodo/SAP_ITK_REF_ObtieneDatosHu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WSReciboAcomodoITK.NetCoreAPI.Domain.HuEnvio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSReciboAcomodoITK.NetCoreAPI.Domain.HuRespuestaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
